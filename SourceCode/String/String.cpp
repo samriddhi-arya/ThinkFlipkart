@@ -5,7 +5,7 @@ void greetings(char hello[]){
 }
 
 void toTitle(char string[]){
-	printf("Making String UPPER...");
+	printf("Making String UPER...");
 }
 
 void toUpper(char string[]){
