@@ -4,6 +4,10 @@ void greetings(char hello[]){
 	printf("\n%s",hello);
 }
 
+void toTitle(char string[]){
+	printf("Making String UPPER...");
+}
+
 void toUpper(char string[]){
 	printf("Making String UPPER...");
 }
